@@ -25,8 +25,7 @@
 <p align="left">
   Sou <strong>Rafael Mascarenhas Brown de Andrade</strong>, de Brasília – DF, Brasil.<br><br>
   🎓 Graduando em <strong>Ciência de Dados e Machine Learning</strong> no CEUB, com conclusão prevista para <strong>2026</strong>.<br>
-  🌱 Estudando: algoritmos avançados de <strong>Machine Learning</strong>, <strong>Deep Learning</strong> e desenvolvimento de aplicações de dados.<br>
-  💼 Em busca de: oportunidades de <strong>estágio em Ciência de Dados ou Machine Learning</strong>.<br>
+      Estudando: algoritmos avançados de <strong>Machine Learning</strong>, <strong>Deep Learning</strong> e desenvolvimento de aplicações de dados.<br>
   📊 Interesses: análise de dados, modelagem preditiva, inteligência artificial e visualização de dados.<br>
   ⚡ Hobbies: leitura sobre empreendedorismo e exploração de ferramentas de visualização como Plotly.
 </p>
