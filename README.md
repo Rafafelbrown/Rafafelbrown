@@ -72,7 +72,7 @@ Sou estudante de **Ciência de Dados e Machine Learning** no Centro Universitár
 ### 🤝 Conecte-se Comigo!
 
 *   🌐 **Portfólio Pessoal:** [rafafelbrown.github.io](https://rafafelbrown.github.io)
-*   💼 **LinkedIn:** [/in/rafael-mascarenhas-brown-de-andrade-34969b280](https://www.linkedin.com/in/rafael-mascarenhas-brown-de-andrade-34969b280)
+*   💼 **LinkedIn:** [/in/rafael-mascarenhas-brown-de-andrade-34969b280](https://www.linkedin.com/in/rafael-brown/)
 *   ✉️ **E-mail:** [rafamasca98@gmail.com](mailto:rafamasca98@gmail.com)
 *   📱 **WhatsApp:** [+55 (61) 99616-1617](https://wa.me/5561996161617)
 
