@@ -12,7 +12,7 @@ Sou estudante de **Ciência de Dados e Machine Learning** no Centro Universitár
 *   🎓 **Graduação:** Ciência de Dados & Machine Learning (UniCEUB, Conclusão em 2026)
 *   ⚖️ **Background:** Ex-estudante de Direito (UniCEUB, 2019-2022) — onde desenvolvi forte pensamento analítico e interpretação de regras complexas.
 *   📍 **Localização:** Brasília, DF - Brasil
-*   💼 **Objetivo:** Buscando minha primeira oportunidade de **estágio** na área de Dados/IA.
+*   💼 **Experiência:** Estagiário na **Câmara dos Deputados**
 
 ---
 
